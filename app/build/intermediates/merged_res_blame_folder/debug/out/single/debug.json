@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "zayver.taller1.app-merged_res-29:/layout_activity_country_detailed.xml.flat",
+        "source": "zayver.taller1.app-main-31:/layout/activity_country_detailed.xml"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/layout_activity_web_view.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/layout/activity_web_view.xml"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/layout_activity_factorial.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/layout/activity_factorial.xml"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/layout_activity_country_detailed.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/layout/activity_country_detailed.xml"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/drawable_factorial.png.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/drawable/factorial.png"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/drawable_fibonacci.jpg.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/drawable/fibonacci.jpg"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/layout_activity_country.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/layout/activity_country.xml"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/layout_activity_fibonacci.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/layout/activity_fibonacci.xml"
+    },
+    {
+        "merged": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/home/santiago/.gradle/daemon/7.3.3/zayver.taller1.app-main-31:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Taller#1</string>
+
+    <!--Own resources-->
+    <string name="fibonacci">Fibonacci</string>
+    <string name="factorial">Factorial</string>
+    <string name="countries">Países</string>
+    <string name="number_hint">Número</string>
+    <string name="fibonacci_bio">https://es.wikipedia.org/wiki/Leonardo_de_Pisa</string>
+    <string name="fac_result">Operación: %1$s\nResultado: %2$d</string>
+
+    <string name="country_name">Nombre: %1$s</string>
+    <string name="country_name_int">Nombre(int): %1$s</string>
+    <string name="capital">Capital: %1$s</string>
+    <string name="initials">Sigla: %1$s</string>
+    <string name="error_country_detailed">Error obteniendo la Bandera del país</string>
+    <string name="info_activity_main">Uso Fibonacci: %1$d, fecha: %2$s\nUso Factorial: %3$d, fecha: %4$s</string>
+
+    <string name="country_api">https://countryflagsapi.com/png/%1$s</string>
+
+
+</resources>
